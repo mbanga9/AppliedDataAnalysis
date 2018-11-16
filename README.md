@@ -1,5 +1,12 @@
 # AppliedDataAnalysis
 
+Take a look at the nbviewer version to vizualize the results:
+
+-----------------------------------------------------------------------------
+http://nbviewer.jupyter.org/gist/mbanga9/8898bb8758589fb5c3be4b282b56cb91
+-----------------------------------------------------------------------------
+
+
 # Title
 Evolution of Direct Democracy in Switzerland
 
@@ -46,8 +53,3 @@ primarily the geolocation of some of these tweets.
 The use of the cluster appers mandatory to speed up drastically the computation
 time and get results in a reasonable amout of time. It's important to note that
 We are working with a 10GB dataset.
-
-# Milestone3:
-
-Take a look at the nbviewer version for milestone 3 for a better experience:
-
